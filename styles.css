@@ -1,0 +1,31 @@
+body {
+    text-align:center;
+    font-size: 1.8rem;
+    background-color: rgb(46, 45, 45) ;
+    font-family: Tahoma;
+    color: White;
+    text-shadow: 5px 5px black;   
+}
+
+#add {
+    font-size: 1.5rem;
+}
+
+#subtract {
+    font-size: 1.5rem;
+}
+
+#method{
+    margin: 2% 0 0 0;
+}
+
+#mySubmit{
+    font-size: 2rem;  
+    padding: .3em;  
+}
+
+.time{
+    font-size: 2rem;
+    width: 12rem;
+    text-align: center;
+}
